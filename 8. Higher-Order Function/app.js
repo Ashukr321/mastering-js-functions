@@ -32,3 +32,4 @@ const outer = function () {
 const count = outer();
 count();  // 0
 count();// 1
+
