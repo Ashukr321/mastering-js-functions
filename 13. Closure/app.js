@@ -4,3 +4,5 @@
 // outer function variable which is created during creation phase 
 // function + its' lexical scope environment know it form closure 
 
+
+// currying is done only by the help of the closure 

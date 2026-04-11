@@ -15,3 +15,4 @@ Here is a complete list of important JavaScript function types that every develo
 11. Nested Function / Inner Function ✅
 12. Recursive Function ✅
 13. Closure ✅
+14. Currying  ✅
