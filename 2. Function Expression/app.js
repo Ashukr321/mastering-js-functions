@@ -7,6 +7,10 @@
 
 greet();// just a variable it goes inside the tdz : temporal dead zone :  
 
-let  greet = function(){
+var greet = function(){
     console.log("hello good morning!");
 }
+
+
+// a first class function means we js function can treated just like normal function 
+// we can store a function into a variable and use it 

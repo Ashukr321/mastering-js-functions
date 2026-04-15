@@ -21,3 +21,14 @@ var name = "Ashutosh";
 
 
 
+// function declaration is also hoisted in nature 
+// in case of the fd : we can call it before 
+// in the fd full body is hoisted during the creation phase or memory allocation phase 
+
+// in case of the var variable this is also hoisted in nature but value is undefined 
+hello();
+
+function hello (){
+    console.log("hello")
+}
+// fd :also know as function statement in the javascript 

@@ -5,6 +5,7 @@ Here is a complete list of important JavaScript function types that every develo
 1. Function Declaration / Function Statement ✅
 2. Function Expression ✅
 3. Arrow Function ✅
+    - lexical scope 
 4. IIFE (Immediately Invoked Function Expression) ✅
 5. Generator Function ✅
 6. Async Function ✅

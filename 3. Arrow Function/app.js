@@ -5,7 +5,10 @@
 // no own this 
 // widely use as callback function 
 // in the arrow function the context of this keywords take from its parent scope 
-// lexical scope 
+// lexical scope  : a function can access variable based on where it is written not where it called 
+// this mechanism is lexical scope in js 
+
+// scope:scope refers to where data is defined not where it called 
 
 
 const printData = (...numbers)=>{
