@@ -23,3 +23,18 @@ fetchData();
 // before async await we use .then and catch block , sytax 
 // await only work inside the async function 
 
+console.log("Start");
+
+function test() {
+  console.log("Inside");
+}
+
+test();
+console.log("End");
+
+
+start 
+inside 
+end 
+
+// normal function execute code asynchronously 

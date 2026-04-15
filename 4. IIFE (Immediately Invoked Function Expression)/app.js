@@ -4,3 +4,5 @@
 })();// code executed immediately 
 
 
+// use for creating the private variables 
+// it runs only once 
